@@ -6,10 +6,10 @@ using System.Web.Mvc;
 
 namespace Perspective.Controllers
 {
-    public class Default1Controller : Controller
+    public class HomeController : Controller
     {
         //
-        // GET: /Default1/
+        // GET: /Home/
         public ActionResult Index()
         {
             return View();
