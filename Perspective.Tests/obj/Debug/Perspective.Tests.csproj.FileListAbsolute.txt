@@ -1,0 +1,5 @@
+C:\Perspective\Perspective.Tests\bin\Debug\Perspective.Tests.dll
+C:\Perspective\Perspective.Tests\bin\Debug\Perspective.Tests.pdb
+C:\Perspective\Perspective.Tests\obj\Debug\Perspective.Tests.csprojResolveAssemblyReference.cache
+C:\Perspective\Perspective.Tests\obj\Debug\Perspective.Tests.dll
+C:\Perspective\Perspective.Tests\obj\Debug\Perspective.Tests.pdb
