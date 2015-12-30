@@ -12,6 +12,7 @@ namespace Perspective.Controllers
         // GET: /Home/
         public ActionResult Index()
         {
+            int i = 0;
             return View();
         }
 	}
