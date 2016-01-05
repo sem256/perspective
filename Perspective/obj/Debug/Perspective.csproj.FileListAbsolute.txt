@@ -16,3 +16,21 @@ C:\Perspective\Perspective\bin\System.Web.Mvc.xml
 C:\Perspective\Perspective\obj\Debug\Perspective.csprojResolveAssemblyReference.cache
 C:\Perspective\Perspective\obj\Debug\Perspective.dll
 C:\Perspective\Perspective\obj\Debug\Perspective.pdb
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\Perspective.dll.config
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\Perspective.dll
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\Perspective.pdb
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Helpers.dll
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Mvc.dll
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Razor.dll
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Webpages.dll
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Webpages.Razor.dll
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Razor.xml
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Webpages.xml
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Webpages.Razor.xml
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Helpers.xml
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\bin\System.Web.Mvc.xml
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\obj\Debug\Perspective.csprojResolveAssemblyReference.cache
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\obj\Debug\Perspective.dll
+C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\obj\Debug\Perspective.pdb
