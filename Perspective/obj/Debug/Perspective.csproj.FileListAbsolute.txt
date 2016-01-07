@@ -34,3 +34,21 @@ C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective
 C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\obj\Debug\Perspective.csprojResolveAssemblyReference.cache
 C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\obj\Debug\Perspective.dll
 C:\Users\Benjamin4\Documents\Visual Studio 2013\Projects\Perspective\Perspective\obj\Debug\Perspective.pdb
+D:\Perspective\Perspective\bin\Perspective.dll.config
+D:\Perspective\Perspective\bin\Perspective.dll
+D:\Perspective\Perspective\bin\Perspective.pdb
+D:\Perspective\Perspective\bin\System.Web.Helpers.dll
+D:\Perspective\Perspective\bin\System.Web.Mvc.dll
+D:\Perspective\Perspective\bin\System.Web.Razor.dll
+D:\Perspective\Perspective\bin\System.Web.Webpages.Deployment.dll
+D:\Perspective\Perspective\bin\System.Web.Webpages.dll
+D:\Perspective\Perspective\bin\System.Web.Webpages.Razor.dll
+D:\Perspective\Perspective\bin\System.Web.Razor.xml
+D:\Perspective\Perspective\bin\System.Web.Webpages.xml
+D:\Perspective\Perspective\bin\System.Web.Webpages.Deployment.xml
+D:\Perspective\Perspective\bin\System.Web.Webpages.Razor.xml
+D:\Perspective\Perspective\bin\System.Web.Helpers.xml
+D:\Perspective\Perspective\bin\System.Web.Mvc.xml
+D:\Perspective\Perspective\obj\Debug\Perspective.csprojResolveAssemblyReference.cache
+D:\Perspective\Perspective\obj\Debug\Perspective.dll
+D:\Perspective\Perspective\obj\Debug\Perspective.pdb
